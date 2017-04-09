@@ -19,6 +19,7 @@ or
 ````
 npm start
 ````
+The server is now running at [localhost:3000](localhost:3000)
 
 4. Run it with babel-node on terminal
 ````
@@ -28,4 +29,3 @@ or
 ````
 npm test
 ````
-The server is now running at [localhost:3000](localhost:3000)
